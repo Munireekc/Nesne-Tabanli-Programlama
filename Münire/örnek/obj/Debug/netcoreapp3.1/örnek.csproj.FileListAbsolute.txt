@@ -1,0 +1,13 @@
+/Users/can/Desktop/örnek/örnek/bin/Debug/netcoreapp3.1/örnek.deps.json
+/Users/can/Desktop/örnek/örnek/bin/Debug/netcoreapp3.1/örnek.runtimeconfig.json
+/Users/can/Desktop/örnek/örnek/bin/Debug/netcoreapp3.1/örnek.runtimeconfig.dev.json
+/Users/can/Desktop/örnek/örnek/bin/Debug/netcoreapp3.1/örnek.dll
+/Users/can/Desktop/örnek/örnek/bin/Debug/netcoreapp3.1/örnek.pdb
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.csproj.AssemblyReference.cache
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.AssemblyInfoInputs.cache
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.AssemblyInfo.cs
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.csproj.CoreCompileInputs.cache
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.dll
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.pdb
+/Users/can/Desktop/örnek/örnek/obj/Debug/netcoreapp3.1/örnek.genruntimeconfig.cache
